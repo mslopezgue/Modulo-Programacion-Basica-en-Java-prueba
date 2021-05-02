@@ -1,1 +1,50 @@
-
+ Ejercicio grupal
+elaborar algoritmo para:
+  - Cambiar rueda de vehiculo
+  - Cambiar el pañal de un bebé
+  - Cambiar clave de correo electronico
+  
+  
+  
+  Algoritmo " Cambiar rueda de vehiculo"
+  
+  Elementos de entrada:  vehiculo, rueda ,chaleco reflectante, rueda repuesto, gata hidraulica, llave  mecanica y pernos
+  
+  proceso:  1. colocarse el chaleco reflectante
+           2.  poner la gata hidraulica debajo del auto 
+           3. subir el auto hasta que la rueda no tope el suelo
+           4. retirar los pernos de la rueda con la llave mecanica
+           5. retirar la rueda
+           6. poner rueda de repuesto
+           7. apretar los pernos con la llave mecanica 
+   Elementos de salida:  vehiculo con rueda nueva
+   
+   
+   algoritmo " Cambiar el pañal de un bebé"
+   
+   Elementods de entrada: bebé cond pañal, agua, jabon antialergico, toalla,  crema protectora, pañal.
+   
+   proces: 1.quitar pañal al bebé
+            2. lavar  al bebe con gua y jabon hipoalergenico, 
+            3. secar con toalla
+            4. abrir pañal
+            5. poner al bebé sobre el pañal
+            6.  cerrar el pañal
+   Elementos de salida: bebé con nuevo pañal.
+   
+   
+   Algoritmo  Cambiar Clave de correo electronico
+   
+   Elementos de entrada:  pc, internet, electricidad, cuenta de correo, clave antigua, clave nueva, validacion de datos.
+   proceso: 1. Enchufar el PC
+            2. encender pc
+            3. abrir internet
+            4. ir a cuenta de correo electronico
+            5. validar datos de ingres correctamente
+            6. ir a configuración y cambio de clave
+            7. ingresar clave antigua
+            8. ingresar clave nueva 
+            9. reingresar clave nueva
+   Elementos de salida: correo con  nueva clave
+          
+           
